@@ -1,1 +1,1 @@
-name = "albania_pkg"
+name = "FlagAssignment"
